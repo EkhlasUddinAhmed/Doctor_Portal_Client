@@ -1,0 +1,12 @@
+.Doctor-div-parent{
+    height:600px;
+    
+
+}
+.Doctor-div-child{
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    width:60%;
+    background-color: rgb(149, 149, 182);
+}
